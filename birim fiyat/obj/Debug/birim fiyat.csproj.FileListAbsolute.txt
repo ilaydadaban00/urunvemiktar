@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\birim fiyat\birim fiyat\bin\Debug\birim fiyat.exe.config
+C:\Users\User\source\repos\birim fiyat\birim fiyat\bin\Debug\birim fiyat.exe
+C:\Users\User\source\repos\birim fiyat\birim fiyat\bin\Debug\birim fiyat.pdb
+C:\Users\User\source\repos\birim fiyat\birim fiyat\obj\Debug\birim fiyat.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\birim fiyat\birim fiyat\obj\Debug\birim fiyat.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\birim fiyat\birim fiyat\obj\Debug\birim_fiyat.Form1.resources
+C:\Users\User\source\repos\birim fiyat\birim fiyat\obj\Debug\birim_fiyat.Properties.Resources.resources
+C:\Users\User\source\repos\birim fiyat\birim fiyat\obj\Debug\birim fiyat.csproj.GenerateResource.cache
+C:\Users\User\source\repos\birim fiyat\birim fiyat\obj\Debug\birim fiyat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\birim fiyat\birim fiyat\obj\Debug\birim fiyat.exe
+C:\Users\User\source\repos\birim fiyat\birim fiyat\obj\Debug\birim fiyat.pdb
